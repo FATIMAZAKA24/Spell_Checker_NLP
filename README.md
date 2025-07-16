@@ -12,7 +12,7 @@ This project implements a simple but powerful spelling correction system using e
 ## 💻 How to Run
 1. Clone the repository:
    ```bash
-  git clone https://github.com/fatimazaka/spell-check-nlp.git
-  cd spell-check-nlp
+     git clone https://github.com/fatimazaka/spell-check-nlp.git
+     cd spell-check-nlp
 
 
